@@ -19,3 +19,18 @@ We apologize here.
 ---
 
 
+
+* We collect drivers that are expected to be necessary from time to time.
+
+
+* This repository collects almost all the drivers on the Github site, which might be like stealing someone else's work. But we will give credit to the project owner.
+
+* We use it for educational purposes only. not seeking profit hope you can understand us
+
+* This is our subsidiary. not main company We bring developers who want to study under our organization.
+
+* Generally speaking, C++ is available, and there may be others. which is uncertain in the future
+
+* You can study various drivers within this organization.
+
+---
